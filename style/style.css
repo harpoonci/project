@@ -37,9 +37,10 @@
     border-radius: 20px;
     background: #6F2CFF;
     border: none;
-    Size 14px
-    Line height 14px
-    color: #FFFFFF;
+    font-size: 14px;
+    line height 14px;
+    color: ;#FFFFFF;
+    
 
 }
 .button:hover{
@@ -78,7 +79,7 @@
 
 .main_input{
     height: 45px;
-    width: 464px;
+    width: 268px;
     border: 1px solid #6F2CFF;
     border-radius: 28px;
     padding-left: 26px;
@@ -98,6 +99,12 @@
     height: 45px;
     width: 187px;
     margin-left: 9px;
+    border-radius: 20px;
+    background: #6F2CFF;
+    border: none;
+    font-size: 14px;
+    line height 14px;
+    color: ;#FFFFFF;
 }
 
 .footer{
@@ -105,7 +112,7 @@
     padding: 58px 0;
 }
 
-.footer.ul{
+.footer_ul{
     display: flex;
     gap: 74px;
 }
